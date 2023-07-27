@@ -3,10 +3,9 @@ Provides [dom-jsx](https://github.com/NewBuilding/dom-jsx) support with vite.
 
 ### Install via YARN
 
-`yarn add dom-jsx`
+`pnpm add ArjixWasTaken/vite-plugin-dom-jsx`
 
 ### Use in vite config
-
 
 ```js
 // vite.config.js
@@ -21,4 +20,3 @@ export default {
   ]
 }
 ```
-
